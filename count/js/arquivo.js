@@ -160,6 +160,9 @@ function limpar(){
         document.querySelector("#fim").value = "";
         document.querySelector("#step").value = "";
 
+        // focando o cursor no campo inicial
+        document.querySelector("#inicio").focus();
+
     })
     
 }
