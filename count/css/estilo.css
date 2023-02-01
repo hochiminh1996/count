@@ -122,3 +122,9 @@ footer {
     padding: 20px 10px;
     font-style: italic;
 }
+
+@media(max-width:670px){
+    section{
+        width: 95%;
+    }
+}
