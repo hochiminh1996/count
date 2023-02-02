@@ -61,6 +61,8 @@ section > #conteudo{
 
 .input_error:focus{
     border: 1px solid red;
+    box-shadow: 0px 0px 10px red;
+    transition: all linear .5s;
 }
 
 #btn{
